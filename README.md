@@ -1,17 +1,14 @@
 ![NeoML](NeoML_logo1.png)
 
-**NeoML** - это кроссплатформенная библиотека для машинного обучения, реализующая полный цикл разработки ML-моделей. Библиотека основана на многолетнем опыте использования ML в компании ABBYY и проверена десятками успешных коммерческих проектов.
+Use the powerful NeoML framework to build, train, and deploy machine learning models.
+-	Neural networks with support for over 100 layer types
+-	Traditional ML: 20+ algorithms (classification, regression, clustering, etc)
+-	CPU and GPU support, optimized for CPUs
+-	ONNX support
+-	Languages: Phyton, C++, Java, Objective C.
+-	Cross-platform: one code can be run at Windows, Linux, MacOS, iOS, and Android
 
-Основной фокус сделан на простом и эффективном использовании готовых моделей, в том числе созданных другими фреймворками.
-
-Библиотека предоставляет C++ интерфейс с полной функциональностью от обучения до использования моделей, а также урезанные Java и Objective-C интерфейсы для применения моделей.
-
-Используя библиотеку, вы получаете следующие преимущества:
-
-- обученные модели могут быть запущены на различных платформах и устройствах;
-- библиотека хорошо оптимизирована для работы на CPU и GPU и зачастую работает быстрее аналогов;
-- поддерживает модели, созданные в других фреймворках, поддерживающих ONNX;
-- позволяет обучать как нейросетевые, так и традиционные модели машинного обучения.
+NeoML is used by ABBYY engineers for computer vision and natural language tasks, including image preprocessing, classification, document layout analysis, OCR, and data extraction from structured and unstructured documents.
 
 ## Содержание
 
