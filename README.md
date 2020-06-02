@@ -6,7 +6,7 @@ Key features:
 -	Traditional ML: 20+ algorithms (classification, regression, clustering, etc)
 -	CPU and GPU support, optimized for CPUs
 -	ONNX support
--	Languages: Phyton, C++, Java, Objective C.
+-	Languages: C++, Java, Objective C
 -	Cross-platform: one code can be run at Windows, Linux, MacOS, iOS, and Android
 
 ## Содержание
