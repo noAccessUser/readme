@@ -3,11 +3,11 @@ NeoML is an end-to-end machine learning framework that allows you to build, trai
 
 Key features:
 -	Neural networks with support for over 100 layer types
--	Traditional ML: 20+ algorithms (classification, regression, clustering, etc)
--	CPU and GPU support, optimized for CPUs
+-	Traditional machine learning: 20+ algorithms (classification, regression, clustering, etc)
+-	CPU and GPU support, fast inference
 -	ONNX support
 -	Languages: C++, Java, Objective C
--	Cross-platform: one code can be run at Windows, Linux, MacOS, iOS, and Android
+-	Cross-platform: the same code can be run at Windows, Linux, macOS, iOS, and Android
 
 ## Содержание
 
